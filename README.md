@@ -1,4 +1,4 @@
-#  AB-Test Analysis
+#  Analysis of AB Test Results
 ## by Moamen Abdelkawy
 
 ## Dataset
@@ -13,7 +13,7 @@ This project is a part of Udacity Advanced Data Analysis Nanodegree.
 
 - However, the differences are narrow and do not provide a compelling evidence. More investigation is required using A/B test and regression models.
 
-- Sampling distribution was generated under the null (assuming that the new page is not effective or even worse).The analysis found that more than 90% of the samples generated during the simulation had diff above the observed value (p-value = 0.9012); hence, the study concluded that we can't reject the null. Meaning that the new page is ineffective or even worse in generating higher conversion rate.
+- Sampling distribution was generated under the null (assuming that the new page is not effective or even worse).The analysis found that more than 90% of the samples generated during the simulation had diff above the observed value (p-value = 0.9012); hence, the study concluded that we can't reject the null. Meaning that the new page is ineffective or even worse in generating a higher conversion rate.
 
 - Using a regression approach, the study achieved similar results. P-value associated with the slop was 0.190, indicating no statistical significance. 
 
