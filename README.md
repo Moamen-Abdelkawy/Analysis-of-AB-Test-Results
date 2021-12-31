@@ -15,7 +15,7 @@ This project is a part of Udacity Advanced Data Analysis Nanodegree.
 
 - Sampling distribution was generated under the null (assuming that the new page is not effective or even worse).The analysis found that more than 90% of the samples generated during the simulation had diff above the observed value (p-value = 0.9012); hence, the study concluded that we can't reject the null. Meaning that the new page is ineffective or even worse in generating higher conversion rate.
 
-- Using a regression approach, the study acheived similar results. P-value associated with the slop was 0.190, indicating no statistical significance. 
+- Using a regression approach, the study achieved similar results. P-value associated with the slop was 0.190, indicating no statistical significance. 
 
 - In addition, there was no evidence that users' countries affect the conversion rate.
 
